@@ -19,7 +19,7 @@ class ProfileView extends StatefulWidget {
                 maxHeight: 160.0,
               ),
               width: MediaQuery.of(context).size.width,
-              color: Colors.blue[400],
+              color: Color.fromARGB(163, 111, 53, 165),
               padding: const EdgeInsets.symmetric(
                 horizontal: 20.0,
               ),

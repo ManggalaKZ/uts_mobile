@@ -10,7 +10,7 @@ class HomeView extends StatefulWidget {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        backgroundColor: Colors.blue[400],
+        backgroundColor: Color.fromARGB(163, 111, 53, 165),
         title: const Text(
           'home',
           style: TextStyle(color: Colors.white),
